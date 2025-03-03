@@ -45,7 +45,7 @@ Using **Random Forest, Gradient Boosting, and XGBoost**, this app provides a use
 ## 🔧 **Installation & Setup**
 ### **1️⃣ Clone This Repository**
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/composite-strength-predictor.git
+git clone https://github.com/demonssvz/FRCM_Prediction.git
 cd composite-strength-predictor
 ```
 2️⃣ Install Dependencies
