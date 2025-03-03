@@ -69,6 +69,9 @@ Want to improve this project? Contributions are welcome!
 To contribute:
 
 Fork this repository.
+
 Create a new branch (feature-branch).
+
 Commit your changes (git commit -m "Added a new feature").
+
 Push to GitHub and create a Pull Request.
