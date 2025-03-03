@@ -3,6 +3,12 @@
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red) ![Python](https://img.shields.io/badge/Python-3.8-blue) ![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-Sklearn-orange)
 
+### 🔗 **Live App:**  
+✅ **You Can Access the Project Here:**  
+👉 [https://frcm-prediction.streamlit.app/](https://frcm-prediction.streamlit.app/)  
+
+---
+
 ## 🚀 **About This Project**
 Composite materials are widely used in aerospace, automotive, and construction industries. This **web-based machine learning app** predicts the **T1 strength** of composite materials based on **fiber type, fiber volume ratio, and mechanical properties**.
 
